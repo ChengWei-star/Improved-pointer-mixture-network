@@ -1,0 +1,10 @@
+*json*
+*ipynb_checkpoints*
+*__pycache__*
+*.log
+*.pickle
+*.txt
+*.pdf
+checkpoints
+logs
+*.out
